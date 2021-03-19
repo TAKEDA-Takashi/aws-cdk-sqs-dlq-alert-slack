@@ -22,6 +22,11 @@
     "typescript": "~4.2.3"
   },
   "dependencies": {
+    "@aws-cdk/aws-chatbot": "^1.94.1",
+    "@aws-cdk/aws-cloudwatch": "^1.94.1",
+    "@aws-cdk/aws-cloudwatch-actions": "^1.94.1",
+    "@aws-cdk/aws-sns": "^1.94.1",
+    "@aws-cdk/aws-sqs": "^1.94.1",
     "@aws-cdk/core": "1.94.1",
     "source-map-support": "^0.5.19"
   }
